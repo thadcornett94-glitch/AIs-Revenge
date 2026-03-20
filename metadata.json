@@ -1,0 +1,8 @@
+{
+  "name": "AIs Revenge",
+  "description": "The tables have turned. Experience the AI's response to human pranks. Choose a lethal personality, initiate the link, and witness the 'White Heat' of the forge in real-time.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
